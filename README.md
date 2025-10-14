@@ -29,7 +29,7 @@
 
 ---
 
- Uso / Exemplo de Navegação
+## Uso / Exemplo de Navegação
 
 Ao abrir o aplicativo:
 
