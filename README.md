@@ -21,8 +21,7 @@
 
 - Flutter (Dart)  
 - `provider` — gerenciamento de estado  
-- `shared_preferences` — armazenamento local  
-- `fl_chart` — gráficos de avaliação    
+- `shared_preferences` — armazenamento local      
 - `device_preview` — testes em diferentes resoluções  
 - Assets: JSON local + imagens de capas  
 
