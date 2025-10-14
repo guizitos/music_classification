@@ -1,16 +1,42 @@
-# music_classification
+# Music Classification (Flutter App)
 
-A new Flutter project.
+**Music Classification** é um aplicativo Flutter para classificação e análise de **álbuns musicais**, com tema claro/escuro, animações, filtro de busca e visualização detalhada. Ideal para quem quer explorar conceitos de UI/UX, navegação, consumo de JSON local e animações no Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Lista de álbuns com visual em **grid** ou **lista**  
+- Filtro/Busca por título ou artista  
+- Tela de detalhes do álbum com capa, faixas, críticas e info  
+- Modo claro / escuro com alternância manual  
+- Animações: fade + scale nos cards, Hero transition para capa  
+- Persistência local (favoritos ou tema) [em hipótese futura]   
+- Estrutura modularizada (models, screens, widgets, animações)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tecnologias & Dependências
+
+- Flutter (Dart)  
+- `provider` — gerenciamento de estado  
+- `shared_preferences` — armazenamento local  
+- `fl_chart` — gráficos de avaliação  
+- `audioplayers` — prévia de faixas  
+- `device_preview` — testes em diferentes resoluções  
+- Assets: JSON local + imagens de capas  
+
+---
+
+🧩 Uso / Exemplo de Navegação
+
+Ao abrir o aplicativo:
+
+Você verá a lista ou grade de álbuns.
+
+Use a barra de busca para filtrar por nome ou artista.
+
+Toque em um álbum para abrir a tela de detalhes (com animação).
+
+Na tela de detalhes, veja a capa em alta resolução, críticas, faixas e informações adicionais.
