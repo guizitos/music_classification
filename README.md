@@ -40,3 +40,10 @@ Use a barra de busca para filtrar por nome ou artista.
 Toque em um álbum para abrir a tela de detalhes (com animação).
 
 Na tela de detalhes, veja a capa em alta resolução, críticas, faixas e informações adicionais.
+
+---
+
+##  Demonstração
+
+Confira a demonstração no YouTube:  
+👉 [Assista aqui](https://youtu.be/bjE96CQYd3w)
