@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "titulo": "Ultraviolence (Deluxe)",
+    "artista": "Lana Del Rey",
+    "capa": "assets/album_1.jpg",
+    "ano": 2014,
+    "notaMedia": 8.7,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Lana entrega seu projeto mais ambicioso e bem-sucedido, onde cada faixa é um capítulo de um romance noir musical." },
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "A obra-prima de Lana Del Rey que elevou sua arte a patamares mitológicos, combinando letras poéticas com arranjos psicodélicos hipnóticos."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Cruel World", "duracao": "6:39" },
+      { "numero": 2, "titulo": "Ultraviolence", "duracao": "4:11" },
+      { "numero": 3, "titulo": "Shades of Cool", "duracao": "5:42" },
+      { "numero": 4, "titulo": "Brooklyn Baby", "duracao": "5:51" },
+      { "numero": 5, "titulo": "West Coast", "duracao": "4:16" },
+      { "numero": 6, "titulo": "Sad Girl", "duracao": "5:17" },
+      { "numero": 7, "titulo": "Pretty When You Cry", "duracao": "3:54" },
+      { "numero": 8, "titulo": "Money Power Glory", "duracao": "4:30" },
+      { "numero": 9, "titulo": "F****d My Way Up To The Top", "duracao": "3:32" },
+      { "numero": 10, "titulo": "Old Money", "duracao": "4:31" },
+      { "numero": 11, "titulo": "The Other Woman", "duracao": "3:01" },
+      { "numero": 12, "titulo": "Black Beauty", "duracao": "5:14" },
+      { "numero": 13, "titulo": "Guns and Roses", "duracao": "4:30" },
+      { "numero": 14, "titulo": "Florida Kilos", "duracao": "4:14" },
+      { "numero": 15, "titulo": "Is This Happiness", "duracao": "3:44" }
+    ],
+    "generos": ["Dream Pop", "Psicodélico"],
+    "selo": "Interscope"
+  },
+  {
+    "id": 2,
+    "titulo": "Mayhem",
+    "artista": "Lady Gaga",
+    "capa": "assets/album_2.jpg",
+    "ano": 2025,
+    "notaMedia": 9.3,
+    "criticas": [
+      { "fonte": "Billboard", "nota": 9, "comentario": "Mayhem é o retorno triunfal de Gaga ao pop alternativo, com batidas industriais e letras que desafiam convenções em um álbum tão caótico quanto brilhante."  },
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Gaga abraça sua veia mais dark e experimental, criando um universo sonoro único onde o pop encontra o rock industrial em uma fusão explosiva."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Disease", "duracao": "3:49" },
+      { "numero": 2, "titulo": "Abracadabra", "duracao": "3:43" },
+      { "numero": 3, "titulo": "Garden of Eden", "duracao": "3:59" },
+      { "numero": 4, "titulo": "Perfect Celebrity", "duracao": "3:49" },
+      { "numero": 5, "titulo": "Vanish Into You", "duracao": "4:04" },
+      { "numero": 6, "titulo": "Killah", "duracao": "3:30" },
+      { "numero": 7, "titulo": "Zombieboy", "duracao": "3:33" },
+      { "numero": 8, "titulo": "LoveDrug", "duracao": "3:13" },
+      { "numero": 9, "titulo": "How Bad Do U Want Me", "duracao": "3:58" },
+      { "numero": 10, "titulo": "Dont Call tonigh", "duracao": "3:45" },
+      { "numero": 11, "titulo": "Shadow Of A Man", "duracao": "3:19" },
+      { "numero": 12, "titulo": "The Beast", "duracao": "3:54" },
+      { "numero": 13, "titulo": "Blade Of Grass", "duracao": "4:17" },
+      { "numero": 14, "titulo": "Die With A Smile", "duracao": "4:11" }
+    ],
+    "generos": ["Pop", "Indie"],
+    "selo": "Universal"
+  },
+  {
+    "id": 3,
+    "titulo": "Gambiarra Chic, Pt.2",
+    "artista": "Irmãs de Pau",
+    "capa": "assets/album_3.jpg",
+    "ano": 2025,
+    "notaMedia": 9.5,
+    "criticas": [
+      { "fonte": "Aqueletuim", "nota": 10, "comentario":  "As Irmãs de Pau consolidam seu lugar como as maiores inovadoras do funk brasileiro, misturando referências pop com a estética ballroom em um álbum genialmente caótico."  },
+      { "fonte": "Tenho Mais Discos Que Amigos", "nota": 9, "comentario": "Gambiarra Chic, Pt.2 é mais do que um álbum - é um manifesto cultural que redefine os limites da música brasileira contemporânea com humor, ironia e talento de sobra."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Boy Boy", "duracao": "2:17" },
+      { "numero": 2, "titulo": "Queimando Ice", "duracao": "3:54" },
+      { "numero": 3, "titulo": "Eterna Fiel", "duracao": "3:33" },
+      { "numero": 4, "titulo": "Medley Do Novo Mundo", "duracao": "5:03" },
+      { "numero": 5, "titulo": "Baile Do Rxota", "duracao": "3:35" },
+      { "numero": 6, "titulo": "Posturadas", "duracao": "3:22" },
+      { "numero": 7, "titulo": "Fuego", "duracao": "2:29" },
+      { "numero": 8, "titulo": "Três Espiãs Demais", "duracao": "3:14" },
+      { "numero": 9, "titulo": "Passaporte Y Copão", "duracao": "3:31" },
+      { "numero": 10, "titulo": "Queens Of Cunty", "duracao": "2:47" }
+
+    ],
+    "generos": ["Funk", "Mandelão", "Ballroom", "Drill"], 
+    "selo": "Tratore"
+  },
+  {
+    "id": 4,
+    "titulo": "Coisas Naturais",
+    "artista": "Marina Sena",
+    "capa": "assets/album_4.jpg",
+    "ano": 2025,
+    "notaMedia": 9.0,
+    "criticas": [
+      { "fonte": "Aqueletuim", "nota": 9, "comentario": "A maneira como se apresenta de forma genuína e vulnerável, tornando-se, tão natural quanto o título sugere." },
+      { "fonte": "Escutai", "nota": 9, "comentario": "“Coisas Naturais” ecoa uma Marina Sena transcendental e almática" }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Coisas Naturais", "duracao": "3:59" },
+      { "numero": 2, "titulo": "Numa Ilha", "duracao": "4:09" },
+      { "numero": 3, "titulo": "Desmitificar", "duracao": "3:33" },
+      { "numero": 4, "titulo": "Anjo", "duracao": "3:47" },
+      { "numero": 5, "titulo": "Tokitô", "duracao": "3:06" },
+      { "numero": 6, "titulo": "Sem Lei", "duracao": "2:53" },
+      { "numero": 7, "titulo": "Sensei", "duracao": "2:43" },
+      { "numero": 8, "titulo": "Lua Cheia", "duracao": "3:17" },
+      { "numero": 9, "titulo": "Combo Da Sorte", "duracao": "3:39" },
+      { "numero": 10, "titulo": "Mágico", "duracao": "3:16" },
+      { "numero": 11, "titulo": "Doçura", "duracao": "2:34" },
+      { "numero": 12, "titulo": "Carnaval", "duracao": "2:34" },
+      { "numero": 13, "titulo": "Ouro De Tolo", "duracao": "4:56" }
+    ],
+    "generos": ["Pop", "Música Brasileira"],
+    "selo": "Sony Music"
+  },
+  {
+    "id": 5,
+    "titulo": "After Hours",
+    "artista": "The Weeknd",
+    "capa": "assets/album_5.jpg",
+    "ano": 2020,
+    "notaMedia": 9.2,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "The Weeknd entrega sua obra mais cinematográfica e conceitual, mergulhando nas profundezas do synthpop dos anos 80 para criar um álbum sobre redenção e excessos noturnos."  },
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "Um marco na carreira de The Weeknd, After Hours é uma jornada sonora perfeita que equilibra o pop acessível de 'Blinding Lights' com a escuridão atmosférica de 'After Hours'."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Alone Again", "duracao": "4:10" },
+      { "numero": 2, "titulo": "Too Late", "duracao": "3:59" },
+      { "numero": 3, "titulo": "Hardest To Love", "duracao": "3:31" },
+      { "numero": 4, "titulo": "Scared To Live", "duracao": "3:11" },
+      { "numero": 5, "titulo": "Snowchild", "duracao": "4:07" },
+      { "numero": 6, "titulo": "Escape From LA", "duracao": "5:55" },
+      { "numero": 7, "titulo": "heartless", "duracao": "3:18" },
+      { "numero": 8, "titulo": "Faith", "duracao": "4:43" },
+      { "numero": 9, "titulo": "Blinding Lights", "duracao": "3:20" },
+      { "numero": 10, "titulo": "In Your Eyes", "duracao": "3:57" },
+      { "numero": 11, "titulo": "Save Your Tears", "duracao": "3:35" },
+      { "numero": 12, "titulo": "Repeat After Me (Interlude)", "duracao": "3:15" },
+      { "numero": 13, "titulo": "After Hours", "duracao": "6:01" },
+      { "numero": 14, "titulo": "Until I Bleed Out", "duracao": "3:10" }
+    ],
+    "generos": ["Synthpop", "R&B"],
+    "selo": "XO/Republic"
+  },
+  {
+    "id": 6,
+    "titulo": "CAJU",
+    "artista": "Liniker",
+    "capa": "assets/album_6.jpg",
+    "ano": 2024,
+    "notaMedia": 9.8,
+    "criticas": [
+      { "fonte": "Aqueletuim", "nota": 9, "comentario": "Liniker atinge a maturidade artística absoluta em CAJU, um álbum que expande as fronteiras do soul brasileiro com colaborações geniais e arranjos sofisticados que celebram a negritude e a diversidade."  },
+      { "fonte": "Tenho Mais Discos Que Amigos", "nota": 10, "comentario": "Uma obra-prima da música brasileira contemporânea, onde Liniker consolida seu lugar como uma das vozes mais importantes de sua geração, mesclando soul, R&B e MPB com maestria incomparável."   }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Caju", "duracao": "4:26" },
+      { "numero": 2, "titulo": "Tudo", "duracao": "3:34" },
+      { "numero": 3, "titulo": "Veludo Marrom", "duracao": "7:17" },
+      { "numero": 4, "titulo": "Ao Teu Lado (feat. Amaro Freitas & ANAVITÓRIA)", "duracao": "7:11" },
+      { "numero": 5, "titulo": "Me Ajude A Salvar Os Domingos", "duracao": "7:17" },
+      { "numero": 6, "titulo": "Negona Dos Olhos Terríveis (feat. BaianaSystem)", "duracao": "5:10" },
+      { "numero": 7, "titulo": "Mayonga", "duracao": "2:12" },
+      { "numero": 8, "titulo": "Papo De Edredom (feat. Melly)", "duracao": "3:12" },
+      { "numero": 9, "titulo": "PopStar", "duracao": "5:01" },
+      { "numero": 10, "titulo": "Febre", "duracao": "4:58" },
+      { "numero": 11, "titulo": "Pote De Ouro (feat. Priscila Senna)", "duracao": "3:58" },
+      { "numero": 12, "titulo": "Deixa Estar (feat. Lulu Santos & Pabllo Vittar)", "duracao": "5:06" },
+      { "numero": 13, "titulo": "So Especial (feat. Tropkillaz)", "duracao": "4:58" },
+      { "numero": 14, "titulo": "Take Your Time E Relaxe", "duracao": "4:40" }
+    ],
+    "generos": ["Pop/R&B Contemporâneo", "Neo-Soul"],
+    "selo": "independente"
+  },
+  {
+    "id": 7,
+    "titulo": "Lemonade",
+    "artista": "Beyoncé",
+    "capa": "assets/album_7.jpg",
+    "ano": 2016,
+    "notaMedia": 9.6,
+    "criticas": [
+      { "fonte": "Billboard", "nota": 10, "comentario": "Beyoncé redefine o conceito de álbum visual com Lemonade, uma obra-prima que mistura autobiografia, protesto social e redenção pessoal em uma jornada cinematográfica inesquecível." },
+      { "fonte": "Pitchfork", "nota": 9, "comentario": "Mais do que um álbum, Lemonade é um fenômeno cultural que elevou Beyoncé ao status de lenda viva, explorando temas de traição, perdão e empoderamento negro com coragem artística absoluta."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Pray You Catch Me", "duracao": "3:15" },
+      { "numero": 2, "titulo": "Hold Up", "duracao": "3:41" },
+      { "numero": 3, "titulo": "Dont Hurt Yourself (feat. Jack White)", "duracao": "3:53" },
+      { "numero": 4, "titulo": "Sorry", "duracao": "3:52" },
+      { "numero": 5, "titulo": "6 Inch (feat. The Weeknd)", "duracao": "4:20" },
+      { "numero": 6, "titulo": "Daddy Lessons", "duracao": "4:47" },
+      { "numero": 7, "titulo": "Love Drought", "duracao": "3:57" },
+      { "numero": 8, "titulo": "Sandcastles", "duracao": "3:02" },
+      { "numero": 9, "titulo": "Forward (feat. James Black)", "duracao": "1:19" },
+      { "numero": 10, "titulo": "Freedom (feat. Kendrick Lamar)", "duracao": "4:49" },
+      { "numero": 11, "titulo": "All Night", "duracao": "5:22" },
+      { "numero": 12, "titulo": "Formation", "duracao": "3:26" },
+      { "numero": 13, "titulo": "Sorry (Original Demo)", "duracao": "3:24" }
+    ],
+    "generos": ["Pop", "R&B"],
+    "selo": "Parkwood/Columbia"
+  },
+  {
+    "id": 8,
+    "titulo": "Born To Die",
+    "artista": "Lana Del Rey",
+    "capa": "assets/album_8.jpg",
+    "ano": 2012,
+    "notaMedia": 7.6,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 7, "comentario": "A estreia de Lana Del Rey em uma grande gravadora é uma joia fascinante e imperfeita, cheia de acordes cinematográficos, batidas de hip-hop e letras trágicas de romance de Hollywood." },
+      { "fonte": "Pitchfork", "nota": 5, "comentario": "Born to Die é um disco muito bonito, mas também muito vazio, cheio de som e fúria que não significam nada." },
+      { "fonte": "The Guardian", "nota": 8, "comentario": "Uma estreia extremamente agradável, ainda que um pouco desconcertante, que não se parece com nada no mainstream. " }
+  ],
+  "faixas": [
+    { "numero": 1, "titulo": "Born To Die", "duracao": "4:46" },
+    { "numero": 2, "titulo": "Off To The Races", "duracao": "5:00" },
+    { "numero": 3, "titulo": "Blue Jeans", "duracao": "3:30" },
+    { "numero": 4, "titulo": "Video Games", "duracao": "4:42" },
+    { "numero": 5, "titulo": "Diet Mountain Dew", "duracao": "3:43" },
+    { "numero": 6, "titulo": "National Anthem", "duracao": "3:51" },
+    { "numero": 7, "titulo": "Dark Paradise", "duracao": "4:03" },
+    { "numero": 8, "titulo": "Radio", "duracao": "3:47" },
+    { "numero": 9, "titulo": "Carmen", "duracao": "4:09" },
+    { "numero": 10, "titulo": "Million Dollar Man", "duracao": "3:51" },
+    { "numero": 11, "titulo": "Summertime Sadness", "duracao": "4:25" },
+    { "numero": 12, "titulo": "This Is What Makes Us Girls", "duracao": "3:58" }
+  ],
+  "generos": ["Baroque Pop", "Trip Hop", "Indie Pop"],
+  "selo": "Interscope"
+  },
+  {
+    "id": 9,
+    "titulo": "21",
+    "artista": "Adele",
+    "capa": "assets/album_9.jpg",
+    "ano": 2011,
+    "notaMedia": 9.4,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 10, "comentario": "Álbum que marcou uma geração" },
+      { "fonte": "The Guardian", "nota": 9, "comentario": "Um disco impressionante e comovente que transcende gêneros e gerações." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Rolling in the Deep", "duracao": "3:48" },
+      { "numero": 2, "titulo": "Rumour Has It", "duracao": "3:43" },
+      { "numero": 3, "titulo": "Turning Tables", "duracao": "4:10" },
+      { "numero": 4, "titulo": "Don't You Remember", "duracao": "4:03" },
+      { "numero": 5, "titulo": "Set Fire to the Rain", "duracao": "4:02" },
+      { "numero": 6, "titulo": "He Won't Go", "duracao": "4:38" },
+      { "numero": 7, "titulo": "Take It All", "duracao": "3:48" },
+      { "numero": 8, "titulo": "I'll Be Waiting", "duracao": "4:01" },
+      { "numero": 9, "titulo": "One and Only", "duracao": "5:48" },
+      { "numero": 10, "titulo": "Lovesong", "duracao": "5:16" },
+      { "numero": 11, "titulo": "Someone Like You", "duracao": "4:45" }
+    ],
+    "generos": ["Pop", "Soul"],
+    "selo": "XL Recordings"
+  },
+  {
+    "id": 10,
+    "titulo": "Born This Way",
+    "artista": "Lady Gaga",
+    "capa": "assets/album_10.jpg",
+    "ano": 2011,
+    "notaMedia": 8.2,
+    "criticas": [
+      { "fonte": "Pitchfork", "nota": 7, "comentario":  "Born This Way é exagerado e extremamente ambicioso, mas também é o trabalho mais pessoal e envolvente de Gaga." },
+      { "fonte": "Rolling Stone", "nota": 8, "comentario": "Um espetáculo grandioso, ridículo e irresistível de álbum que só Gaga poderia fazer."  },
+      { "fonte": "The Guardian", "nota": 9, "comentario": "Um disco pop emocionante e maximalista que ultrapassa limites e celebra a individualidade."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Marry the Night", "duracao": "4:24" },
+      { "numero": 2, "titulo": "Born This Way", "duracao": "4:20" },
+      { "numero": 3, "titulo": "Government Hooker", "duracao": "4:14" },
+      { "numero": 4, "titulo": "Judas", "duracao": "4:10" },
+      { "numero": 5, "titulo": "Americano", "duracao": "4:06" },
+      { "numero": 6, "titulo": "Hair", "duracao": "5:08" },
+      { "numero": 7, "titulo": "Scheiße", "duracao": "3:45" },
+      { "numero": 8, "titulo": "Bloody Mary", "duracao": "4:05" },
+      { "numero": 9, "titulo": "Black Jesus † Amen Fashion", "duracao": "3:36" },
+      { "numero": 10, "titulo": "Bad Kids", "duracao": "3:51" },
+      { "numero": 11, "titulo": "Fashion of His Love", "duracao": "3:39" },
+      { "numero": 12, "titulo": "Highway Unicorn (Road to Love)", "duracao": "4:16" },
+      { "numero": 13, "titulo": "Heavy Metal Lover", "duracao": "4:13" },
+      { "numero": 14, "titulo": "Electric Chapel", "duracao": "4:12" },
+      { "numero": 15, "titulo": "The Queen", "duracao": "5:17" },
+      { "numero": 16, "titulo": "Yoü and I", "duracao": "5:07" },
+      { "numero": 17, "titulo": "The Edge of Glory", "duracao": "5:20" }
+    ],
+    "generos": ["Pop", "Dance"],
+    "selo": "Interscope"
+  },
+  {
+    "id": 11,
+    "titulo": "Brat",
+    "artista": "Charlie XCX",
+    "capa": "assets/album_11.jpg",
+    "ano": 2024,
+    "notaMedia": 8.7,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Charli XCX entrega seu álbum mais ousado e pessoal, uma mistura explosiva de pop experimental e batidas de club que define o som do futuro." },
+      { "fonte": "Tenho Mais Discos Que Amigos", "nota": 8, "comentario": "Um retorno triunfante ao pop de vanguarda, onde Charli explora temas de fama, insegurança e hedonismo com produção impecável e letras afiadas." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "360", "duracao": "2:34" },
+      { "numero": 2, "titulo": "Club classics", "duracao": "3:13" },
+      { "numero": 3, "titulo": "Sympathy is a knife", "duracao": "3:52" },
+      { "numero": 4, "titulo": "I might say something stupid", "duracao": "2:42" },
+      { "numero": 5, "titulo": "Talk talk", "duracao": "2:26" },
+      { "numero": 6, "titulo": "Von dutch", "duracao": "2:48" },
+      { "numero": 7, "titulo": "Everything is romantic", "duracao": "3:10" },
+      { "numero": 8, "titulo": "Rewind", "duracao": "3:13" },
+      { "numero": 9, "titulo": "So I", "duracao": "2:46" },
+      { "numero": 10, "titulo": "Girl, so confusing", "duracao": "2:51" },
+      { "numero": 11, "titulo": "Apple", "duracao": "2:56" },
+      { "numero": 12, "titulo": "B2b", "duracao": "2:57" },
+      { "numero": 13, "titulo": "Mean girls", "duracao": "2:33" },
+      { "numero": 14, "titulo": "I think about it all the time", "duracao": "3:10" },
+      { "numero": 15, "titulo": "365", "duracao": "3:24" }
+    ],
+    "generos": ["Pop", "Dance", "Electrônico"],
+    "selo": "Atlantic"
+  },
+  {
+    "id": 12,
+    "titulo": "Thank u, next",
+    "artista": "Ariana Grande",
+    "capa": "assets/album_12.jpg",
+    "ano": 2019,
+    "notaMedia": 8.5,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Ariana entrega seu trabalho mais pessoal e maduro, transformando dor em arte pop de altíssima qualidade com produção impecável." },
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "Um álbum catártico que mostra a evolução artística de Grande, misturando R&B contemporâneo com pop urbano e letras profundamente honestas."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Imagine", "duracao": "3:32" },
+      { "numero": 2, "titulo": "Needy", "duracao": "2:51" },
+      { "numero": 3, "titulo": "NASA", "duracao": "3:02" },
+      { "numero": 4, "titulo": "Bloodline", "duracao": "3:36" },
+      { "numero": 5, "titulo": "Fake Smile", "duracao": "3:28" },
+      { "numero": 6, "titulo": "Bad Idea", "duracao": "4:27" },
+      { "numero": 7, "titulo": "Make Up", "duracao": "2:20" },
+      { "numero": 8, "titulo": "Ghostin", "duracao": "4:31" },
+      { "numero": 9, "titulo": "In My Head", "duracao": "3:42" },
+      { "numero": 10, "titulo": "7 Rings", "duracao": "2:58" },
+      { "numero": 11, "titulo": "Thank U, Next", "duracao": "3:27" },
+      { "numero": 12, "titulo": "Break Up With Your Girlfriend, I'm Bored", "duracao": "3:10" }
+    ],
+    "generos": ["Pop", "R&B", "Trap"],
+    "selo": "Republic"
+  },
+  {
+    "id": 13,
+    "titulo": "Happier Than Ever",
+    "artista": "Billie Eilish",
+    "capa": "assets/album_13.jpg",
+    "ano": 2021,
+    "notaMedia": 8.8,
+    "criticas": [
+      { "fonte": "Pitchfork", "nota": 9, "comentario": "Uma evolução magistral que mantém a identidade única da artista enquanto expande seus horizontes musicais com produção minimalista e arranjos sofisticados."  },
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Billie Eilish amadurece artisticamente em seu segundo álbum, explorando sonoridades vintage e letras profundas sobre fama, relacionamentos e crescimento pessoal." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Getting Older", "duracao": "4:04" },
+      { "numero": 2, "titulo": "I Didn't Change My Number", "duracao": "2:38" },
+      { "numero": 3, "titulo": "Billie Bossa Nova", "duracao": "3:16" },
+      { "numero": 4, "titulo": "my future", "duracao": "3:30" },
+      { "numero": 5, "titulo": "Oxytocin", "duracao": "3:30" },
+      { "numero": 6, "titulo": "GOLDWING", "duracao": "2:31" },
+      { "numero": 7, "titulo": "Lost Cause", "duracao": "3:32" },
+      { "numero": 8, "titulo": "Halley's Comet", "duracao": "3:54" },
+      { "numero": 9, "titulo": "Not My Responsibility", "duracao": "3:47" },
+      { "numero": 10, "titulo": "OverHeated", "duracao": "3:34" },
+      { "numero": 11, "titulo": "Everybody Dies", "duracao": "3:26" },
+      { "numero": 12, "titulo": "Your Power", "duracao": "4:05" },
+      { "numero": 13, "titulo": "NDA", "duracao": "3:15" },
+      { "numero": 14, "titulo": "Therefore I Am", "duracao": "2:54" },
+      { "numero": 15, "titulo": "Happier Than Ever", "duracao": "4:58" },
+      { "numero": 16, "titulo": "Male Fantasy", "duracao": "3:14" }
+    ],
+    "generos": ["Pop", "Alt-Pop", "Jazz"],
+    "selo": "Darkroom/Interscope"
+  },
+  {
+    "id": 14,
+    "titulo": "Chromakopia",
+    "artista": "Tyler, The Creator",
+    "capa": "assets/album_14.jpg",
+    "ano": 2024,
+    "notaMedia": 8.7,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Tyler reinventa-se mais uma vez em CHROMAKOPIA, explorando novas texturas sonoras que misturam hip hop experimental com elementos eletrônicos e jazz, criando sua obra mais ousada até agora."  },
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "Um álbum conceitual ambicioso onde Tyler expande os limites do hip hop, entregando produção impecável e letras que refletem sua evolução como artista visionário." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "St. Chroma (feat. Dani Caesar)", "duracao": "3:17" },
+      { "numero": 2, "titulo": "Rah Tah Tah", "duracao": "2:45" },
+      { "numero": 3, "titulo": "Noid", "duracao": "4:44" },
+      { "numero": 4, "titulo": "Darling, I (feat. Teezo Touchdown)", "duracao": "4:13" },
+      { "numero": 5, "titulo": "Hey Jane", "duracao": "4:00" },
+      { "numero": 6, "titulo": "I killed You", "duracao": "2:48" },
+      { "numero": 7, "titulo": "Judge judy", "duracao": "4:29" },
+      { "numero": 8, "titulo": "Stick (feat. Glorilla, Sexxy Red & Lil Wayner)", "duracao": "4:15" },
+      { "numero": 9, "titulo": "Take You Mask Off (feat. Daniel Caesar & Latoiya Williams)", "duracao": "4:13" },
+      { "numero": 10, "titulo": "Tomorrow", "duracao": "3:02" },
+      { "numero": 11, "titulo": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)", "duracao": "3:27" },
+      { "numero": 12, "titulo": "Like Him (feat. Lola Young)", "duracao": "4:38" },
+      { "numero": 13, "titulo": "Balloon (feat. Doechii)", "duracao": "2:34" },
+      { "numero": 14, "titulo": "I Hope You Find Your Way Home", "duracao": "4:29" }
+    ],
+    "generos": ["Hip Hop Experimental", "Alternative R&B", "Electronic", "Jazz Fusion"],
+    "selo": "Columbia Records"
+  },
+  {
+    "id": 15,
+    "titulo": "1989",
+    "artista": "Taylor Swift",
+    "capa": "assets/album_15.jpg",
+    "ano": 2014,
+    "notaMedia": 9.0,
+    "criticas": [
+      { "fonte": "Guardian", "nota": 9, "comentario": "Taylor Swift entrega sua transição mais ousada para o pop com 1989, um álbum repleto de hinos irresistíveis que redefiniram o pop dos anos 2010." },
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "Uma obra-prima do pop que mostra a evolução artística de Swift, combinando produção synth-pop impecável com letras afiadas sobre amor e vida na cidade grande." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Welcome To New York", "duracao": "3:32" },
+      { "numero": 2, "titulo": "Blank Space", "duracao": "3:51" },
+      { "numero": 3, "titulo": "Style", "duracao": "3:51" },
+      { "numero": 4, "titulo": "Out Of The Woods", "duracao": "3:55" },
+      { "numero": 5, "titulo": "All You Had To Do Was Stay", "duracao": "3:13" },
+      { "numero": 6, "titulo": "Shake It Off", "duracao": "3:39" },
+      { "numero": 7, "titulo": "I Wish You Would", "duracao": "3:27" },
+      { "numero": 8, "titulo": "Bad Blood", "duracao": "3:31" },
+      { "numero": 9, "titulo": "Wildest Dreams", "duracao": "3:40" },
+      { "numero": 10, "titulo": "How You Get The Girl", "duracao": "4:07" },
+      { "numero": 11, "titulo": "This Love", "duracao": "4:10" },
+      { "numero": 12, "titulo": "I Know Places", "duracao": "3:15" },
+      { "numero": 13, "titulo": "Clean", "duracao": "4:30" }
+    ],
+    "generos": ["Pop"],
+    "selo": "Big Machine"
+  },
+  {
+    "id": 16,
+    "titulo": "Cry Baby (Deluxe Edition)",
+    "artista": "Melanie Martinez",
+    "capa": "assets/album_16.jpg",
+    "ano": 2015,
+    "notaMedia": 8.1,
+    "criticas": [
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "Um álbum conceitual ousado que estabelece a identidade artística de Martinez, misturando electropop com letras que exploram temas psicológicos através de metáforas infantis." },
+      { "fonte": "Rolling Stone", "nota": 8, "comentario": "Melanie Martinez cria um universo único e perturbador em Cry Baby, combinando pop alternativo com conceitos infantis sombrios em uma narrativa coesa e visualmente rica." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Cry Baby", "duracao": "3:59" },
+      { "numero": 2, "titulo": "Dollhouse", "duracao": "3:51" },
+      { "numero": 3, "titulo": "Sippy Cup", "duracao": "3:15" },
+      { "numero": 4, "titulo": "Carousel", "duracao": "3:50" },
+      { "numero": 5, "titulo": "Alphabet Boy", "duracao": "4:13" },
+      { "numero": 6, "titulo": "Mrs. Potato Head", "duracao": "3:37" },
+      { "numero": 7, "titulo": "Mad Hatter", "duracao": "3:21" },
+      { "numero": 8, "titulo": "Pacify Her", "duracao": "3:40" },
+      { "numero": 9, "titulo": "Pity Party", "duracao": "3:24" },
+      { "numero": 10, "titulo": "Tag, You're It", "duracao": "3:09" },
+      { "numero": 11, "titulo": "Milk and Cookies", "duracao": "3:26" },
+      { "numero": 12, "titulo": "Training Wheels", "duracao": "3:25" },
+      { "numero": 13, "titulo": "Cake", "duracao": "3:19" },
+      { "numero": 14, "titulo": "Play Date", "duracao": "2:59" },
+      { "numero": 15, "titulo": "Teddy Bear", "duracao": "4:05" },
+      { "numero": 16, "titulo": "Gingerbread Man", "duracao": "3:54" }
+    ],
+    "generos": ["Alt-Pop", "Electropop", "Art Pop"],
+    "selo": "Atlantic Records"
+  },
+  {
+    "id": 17,
+    "titulo": "Born Pink",
+    "artista": "Blackpink",
+    "capa": "assets/album_17.jpg",
+    "ano": 2022,
+    "notaMedia": 7.8,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 10, "comentario": "BLACKPINK consolida seu reinado no K-pop com Born Pink, um álbum que equilibra o poder dos hits explosivos com momentos mais introspectivos, mostrando a evolução do grupo." },
+      { "fonte": "Pitchfork", "nota": 8, "comentario": "O segundo álbum de estúdio do BLACKPINK entrega exatamente o que as fãs esperam: batidas contagiantes, rap afiado e vocais poderosos que fortalecem seu legado no pop global." }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Pink Venom", "duracao": "3:06" },
+      { "numero": 2, "titulo": "Shut Down", "duracao": "2:55" },
+      { "numero": 3, "titulo": "Typa Girl", "duracao": "2:47" },
+      { "numero": 4, "titulo": "Yeah Yeah Yeah", "duracao": "2:58" },
+      { "numero": 5, "titulo": "Hard to Love", "duracao": "2:42" },
+      { "numero": 6, "titulo": "The Happiest Girl", "duracao": "3:42" },
+      { "numero": 7, "titulo": "Tally", "duracao": "3:04" },
+      { "numero": 8, "titulo": "Ready For Love", "duracao": "3:04" }
+    ],
+    "generos": ["K-Pop", "Pop", "Hip Hop", "EDM"],
+    "selo": "YG Entertainment"
+  },
+  {
+    "id": 18,
+    "titulo": "QVVJFA?",
+    "artista": "Baco Exu do Blues",
+    "capa": "assets/album_18.jpg",
+    "ano": 2022,
+    "notaMedia": 9.2,
+    "criticas": [
+      { "fonte":  "Rolling Stone", "nota": 10, "comentario": "Baco Exu do Blues entrega sua obra mais ambiciosa e conceitual, um álbum que transcende o rap e se torna uma experiência artística completa, explorando temas existenciais com poesia afiada."  },
+      { "fonte": "Tenho Mais Discos Que Amigos", "nota": 9, "comentario": "Um marco na música brasileira contemporânea, QVVJFA? consolida Baco como um dos artistas mais visionários de sua geração, mesclando rap, blues e elementos experimentais em uma narrativa poderosa."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Sinto Tanto Raiva", "duracao": "2:53" },
+      { "numero": 2, "titulo": "Dois Amores", "duracao": "3:31" },
+      { "numero": 3, "titulo": "Cigana", "duracao": "2:42" },
+      { "numero": 4, "titulo": "20 Ligações", "duracao": "3:13" },
+      { "numero": 5, "titulo": "Mulheres Grandes", "duracao": "3:20" },
+      { "numero": 6, "titulo": "Samba In Paris (feat. Gloria Groove)", "duracao": "4:26" },
+      { "numero": 7, "titulo": "Sei Partir (feat. Muse Maya)", "duracao": "2:56" },
+      { "numero": 8, "titulo": "Autoestima", "duracao": "2:53" },
+      { "numero": 9, "titulo": "Lágrimas (feat. Gal Costa)", "duracao": "2:57" },
+      { "numero": 10, "titulo": "Inimigos", "duracao": "3:41" },
+      { "numero": 11, "titulo": "Imortais e Fatais 2 (feat. Vinícius de Morais)", "duracao": "3:00" },
+      { "numero": 12, "titulo": "4 da Manhã em Salvador", "duracao": "3:29" }
+    ],
+    "generos": ["Rap", "Hip Hop Brasileiro", "Blues", "Experimental"],
+    "selo": "LAB 344"
+  },
+  {
+    "id": 19,
+    "titulo": "Ctrl",
+    "artista": "Sza",
+    "capa": "assets/album_19.jpg",
+    "ano": 2017,
+    "notaMedia": 8.8,
+    "criticas": [
+      { "fonte": "Rolling Stone", "nota": 9, "comentario": "SZA redefine o R&B contemporâneo com Ctrl, um álbum honesto e vulnerável que explora amor, inseguranças e autoaceitação com uma autenticidade rara na música atual." },
+      { "fonte": "Pitchfork", "nota": 9, "comentario": "Uma estreia magistral que consolidou SZA como uma das vozes mais importantes do R&B, combinando produção inovadora com letras profundamente pessoais sobre relacionamentos e crescimento pessoal."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Supermodel", "duracao": "3:01" },
+      { "numero": 2, "titulo": "Love Galore", "duracao": "4:35" },
+      { "numero": 3, "titulo": "Doves in the Wind", "duracao": "4:26" },
+      { "numero": 4, "titulo": "Drew Barrymore", "duracao": "3:51" },
+      { "numero": 5, "titulo": "Prom", "duracao": "3:16" },
+      { "numero": 6, "titulo": "The Weekend", "duracao": "4:32" },
+      { "numero": 7, "titulo": "Go Gina", "duracao": "2:41" },
+      { "numero": 8, "titulo": "Garden (Say It Like Dat)", "duracao": "3:28" },
+      { "numero": 9, "titulo": "Broken Clocks", "duracao": "3:51" },
+      { "numero": 10, "titulo": "Anything", "duracao": "2:29" },
+      { "numero": 11, "titulo": "Wavy (Interlude)", "duracao": "1:15" },
+      { "numero": 12, "titulo": "Normal Girl", "duracao": "4:13" },
+      { "numero": 13, "titulo": "Pretty Little Birds", "duracao": "4:05" },
+      { "numero": 14, "titulo": "20 Something", "duracao": "3:18" }
+    ],
+    "generos": ["R&B", "Neo Soul", "Alternative R&B"],
+    "selo": "Top Dawg Entertainment"
+  },
+  {
+    "id": 20,
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "capa": "assets/album_20.jpg",
+    "ano": 1982,
+    "notaMedia": 10.0,
+    "criticas": [
+      { "fonte": "Billboard", "nota": 10, "comentario": "O álbum mais vendido de todos os tempos, Thriller permanece como a obra-prima definitiva do pop, combinando funk, rock, disco e R&B em uma coleção perfeita de hits atemporais."  },
+      { "fonte": "Rolling Stone", "nota": 10, "comentario": "Thriller não é apenas um álbum, é um fenômeno cultural que redefiniu a música pop para sempre, com produção impecável de Quincy Jones e a performance lendária de Michael Jackson no auge de seus talentos."  }
+    ],
+    "faixas": [
+      { "numero": 1, "titulo": "Wanna Be Startin' Somethin'", "duracao": "6:03" },
+      { "numero": 2, "titulo": "Baby Be Mine", "duracao": "4:20" },
+      { "numero": 3, "titulo": "The Girl Is Mine", "duracao": "3:42" },
+      { "numero": 4, "titulo": "Thriller", "duracao": "5:57" },
+      { "numero": 5, "titulo": "Beat It", "duracao": "4:18" },
+      { "numero": 6, "titulo": "Billie Jean", "duracao": "4:54" },
+      { "numero": 7, "titulo": "Human Nature", "duracao": "4:06" },
+      { "numero": 8, "titulo": "P.Y.T. (Pretty Young Thing)", "duracao": "3:59" },
+      { "numero": 9, "titulo": "The Lady in My Life", "duracao": "5:00" }
+    ],
+    "generos": ["Pop", "Funk"],
+    "selo": "Epic"
+  }
+]
